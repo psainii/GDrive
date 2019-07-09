@@ -35,7 +35,7 @@ pip3 install -r requirements.txt
 Currently, this project isn't stable at all, and can be currently used just for fun, research or whatever purpose besides daily use. If you really want a way to mount your GDrive partition, why haven't you checked out [dsoprea/GDriveFS](https://github.com/dsoprea/GDriveFS) yet?
 
 ### Acknowledgments
-- [dsoprea/GDriveFS](https://github.com/dsoprea/GDriveFS) - I would like to point out that this FUSE implementation is tons better than the current one I made.
+
 - [libfuse/python-fuse](https://github.com/libfuse/python-fuse/wiki) - Thanks to this library for providing us an awesome Filesystem API in Python!
 - [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Awesome lists are really useful!
 - [Python Fuse](https://www.slideshare.net/matteobertozzi/python-fuse) - Nice slides for implementation with examples.
